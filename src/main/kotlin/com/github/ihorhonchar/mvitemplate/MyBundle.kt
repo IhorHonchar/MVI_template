@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.ihorhonchar.mvitemplate
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
